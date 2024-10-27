@@ -1,4 +1,4 @@
-# PRC Data Challenge 2024 - Eurocontrol
+# PRC Data Challenge 2024 - Eurocontrol & OpenSky Network
 
 ## Project Overview
 
