@@ -1,5 +1,7 @@
 # PRC Data Challenge 2024 - Eurocontrol & OpenSky Network
 
+**Note: The Datasets are too large to be updated to Github, they are available on request**
+
 ## Project Overview
 
 This repository contains a collection of scripts developed for the **PRC Data Challenge 2024** hosted by **Eurocontrol**. The goal of this project is to create a robust model for estimating the **take-off weight (TOW)** of airplanes. Using a foundational dataset, this project appends critical trajectory-derived variables to support precise TOW estimations.
