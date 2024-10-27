@@ -17,7 +17,7 @@ The main data sources include Parquet files with flight trajectory data and CSV 
 - **Jet Stream Coefficients**: Analysis of polar and subtropical jet streams based on trajectory data.
 - **Weather Data**: Extraction of temperature, humidity, wind components, and altitude for modeling environmental effects on flight dynamics.
 
-Dataset creation was conducted by **Andrey Belkin** on a local machine with the following specifications:
+Dataset creation was conducted by [**Andrey Belkin**](https://www.linkedin.com/in/andrey-belkin-03ab241ba) on a local machine with the following specifications:
 
 - **Processor**: AMD Ryzen 7 3700X
 - **GPU**: Nvidia RTX 2060
@@ -26,7 +26,7 @@ Dataset creation was conducted by **Andrey Belkin** on a local machine with the 
 
 The statistical analysis, which examines the correlations and patterns within the data for TOW estimation, was carried out using **R** on high-performance server clusters, primarily leveraging an **NVIDIA A100-SXM4-80GB** for accelerated computation.
 
-This analysis was led by **Anton Bogachev**, focusing on deriving actionable insights and refining the dataset for model training.
+This analysis was led by [**Anton Bogachev**](https://www.linkedin.com/in/anton-bogachev-627353182/), focusing on deriving actionable insights and refining the dataset for model training.
 
 ## System Requirements
 
@@ -46,11 +46,5 @@ To replicate or extend the analysis, the following environment and hardware are 
 
 ## Contributors
 
-- **Andrey Belkin** - [LinkedIn link placeholder]: Led the dataset creation, coding, and initial variable extraction process.
-- **Anton Bogachev** - [LinkedIn link placeholder]: Conducted statistical analysis, fine-tuning the dataset for effective TOW modeling.
-
----
-
-## Additional Information
-
-This project represents an initial approach to TOW estimation using trajectory-derived variables, with potential for refinement as additional datasets and insights become available. Further improvements and contributions are welcomed to enhance model accuracy and robustness.
+- [**Andrey Belkin**](https://www.linkedin.com/in/andrey-belkin-03ab241ba): Led the dataset creation, coding, and initial variable extraction process.
+- [**Anton Bogachev**](https://www.linkedin.com/in/anton-bogachev-627353182/): Conducted statistical analysis, fine-tuning the dataset for effective TOW modeling.
