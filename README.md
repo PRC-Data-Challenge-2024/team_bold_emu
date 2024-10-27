@@ -6,8 +6,6 @@
 
 This repository contains a collection of scripts developed for the **PRC Data Challenge 2024** hosted by **Eurocontrol**. The goal of this project is to create a robust model for estimating the **take-off weight (TOW)** of airplanes. Using a foundational dataset, this project appends critical trajectory-derived variables to support precise TOW estimations.
 
-Documentations on our [thoughts](Project Thoughts.pdf), [dataset creation](DataSetCreation/Documentation/Documentation Dataset Creation.pdf) and [analysis](Analysis/Documentation/Documentation Statistical Analysis.pdf) can be found in the respective folders of the repository
-
 Documentation on our [thoughts](./Project%20Thoughts.pdf), [dataset creation](./DataSetCreation/Documentation/Documentation%20Dataset%20Creation.pdf), and [analysis](./Analysis/Documentation/Documentation%20Statistical%20Analysis.pdf) can be found in the respective folders of the repository.
 
 ## Dataset Creation
