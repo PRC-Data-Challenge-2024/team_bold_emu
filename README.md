@@ -8,6 +8,8 @@ This repository contains a collection of scripts developed for the **PRC Data Ch
 
 Documentations on our [thoughts](Project Thoughts.pdf), [dataset creation](DataSetCreation/Documentation/Documentation Dataset Creation.pdf) and [analysis](Analysis/Documentation/Documentation Statistical Analysis.pdf) can be found in the respective folders of the repository
 
+Documentation on our [thoughts](./Project%20Thoughts.pdf), [dataset creation](./DataSetCreation/Documentation/Documentation%20Dataset%20Creation.pdf), and [analysis](./Analysis/Documentation/Documentation%20Statistical%20Analysis.pdf) can be found in the respective folders of the repository.
+
 ## Dataset Creation
 
 The dataset creation process involves calculating and appending additional metrics to flight trajectory data. Key tools and libraries used include:
