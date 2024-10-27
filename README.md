@@ -33,7 +33,8 @@ This analysis was led by [**Anton Bogachev**](https://www.linkedin.com/in/anton-
 To replicate or extend the analysis, the following environment and hardware are recommended:
 
 - **Python**: Version 3.10
-- **Libraries**: Pandas, Pyarrow, R for statistical analysis
+- **Libraries**: Pandas, Pyarrow
+- **Software**: R 4.4.2 for statistical analysis
 - **Hardware**:
     - Local machine: AMD Ryzen 7 3700X, Nvidia RTX 2060
     - Server cluster (for large-scale computations): NVIDIA A100-SXM4-80GB
